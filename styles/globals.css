@@ -19,13 +19,14 @@ body {
 h1 {
     color: #333; /* Darker text for better contrast */
     margin-bottom: 20px;
+    font-size: 40px;
 }
 
 .inputField {
     padding: 12px;
     font-size: 18px;
     width: 100%;
-    max-width: 400px; /* Limit width for larger screens */
+    max-width: 1000px; /* Limit width for larger screens */
     margin-bottom: 20px;
     border: 2px solid #0070f3; /* Border color */
     border-radius: 5px; /* Rounded corners */
